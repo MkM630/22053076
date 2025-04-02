@@ -12,3 +12,7 @@
 
 ![trend](https://github.com/user-attachments/assets/02d1743e-2d16-42be-a72c-6a1e0973b4d1)
 
+<h1> Average Calculator HTTP</h1>
+
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/9161b0a0-28be-48be-a9c6-96bbce7eb768" />
+
