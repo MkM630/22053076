@@ -3,4 +3,12 @@
 
 ![Top](https://github.com/user-attachments/assets/af360d13-bfb0-4f4c-bbac-2439ffbc4922)
 <h2> Feeds</h2>
-![Feeds](https://github.com/user-attachments/assets/efdde123-1748-4671-aee0-25d338716df6)
+
+![Feeds](https://github.com/user-attachments/assets/8c380685-4c2f-49df-b2c1-ab2b89db94bd)
+
+<h2>
+  Trends
+</h2>
+
+![trend](https://github.com/user-attachments/assets/02d1743e-2d16-42be-a72c-6a1e0973b4d1)
+
