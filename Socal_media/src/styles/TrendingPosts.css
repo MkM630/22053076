@@ -1,0 +1,14 @@
+/* TrendingPosts.css */
+.trending-posts {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .trending-post {
+    padding: 15px;
+    background: white;
+    border-radius: 6px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  

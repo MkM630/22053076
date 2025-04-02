@@ -1,0 +1,14 @@
+/* Feed.css */
+.feed {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .feed-item {
+    padding: 15px;
+    background: white;
+    border-radius: 6px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
